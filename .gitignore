@@ -1,0 +1,61 @@
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+media/
+static/
+
+# Environment variables and secrets
+.env
+*.env
+*.local
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+*.egg/
+
+# Django migrations
+*/migrations/*.pyc
+
+# Database files
+*.sqlite3
+
+# Test and coverage reports
+.coverage
+nosetests.xml
+pytest.xml
+test_*.db
+*.bak
+
+# Django specific files
+*.log
+*.pot
+
+# Distribution and packaging
+*.tar.gz
+*.tgz
+*.zip
+*.egg
+*.whl
+
+# Local environment
+*.local
+
+# IDEs and editor folders
+.vscode/
+.idea/
+
+
