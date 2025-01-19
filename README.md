@@ -14,6 +14,11 @@ Before running the commands, ensure you have the following set up:
   - `python-binance`: Binance API client for Python
   - `Django`: Web framework for managing the project
 
+### Clone
+```bash
+git clone https://github.com/oscarmwangangi/Withdraw.git
+```
+### install all dependancy
 ```bash
 pip install -r requirements.txt
 ```
