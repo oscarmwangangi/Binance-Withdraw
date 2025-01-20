@@ -44,7 +44,8 @@ python manage.py check_balance
 This error occurs due to a time synchronization issue between your server and the Binance API.
 
 **Solution**: Ensure that your server time is synchronized with the Binance server's time. You can call `client.get_server_time()` to synchronize it programmatically.
-**Solution 2**: Go to setting in your click time scroll to sync and  click
+
+**Solution 2**: Go to setting in your computer click time scroll to sync and  click
 
 #### "You are not authorized to execute this request":
 
