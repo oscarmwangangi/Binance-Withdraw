@@ -13,7 +13,8 @@ Before running the commands, ensure you have the following set up:
 - Install the required libraries:
   - `python-binance`: Binance API client for Python
   - `Django`: Web framework for managing the project
-
+### starting
+You will need to creat .env file where you will put your API_KEY and SECREY_KEY
 ### Clone
 ```bash
 git clone https://github.com/oscarmwangangi/Binance-Withdraw.git
@@ -52,6 +53,7 @@ This error occurs due to a time synchronization issue between your server and th
 This error means that your API key does not have the necessary permissions to perform the action (withdrawal).
 
 **Solution**: Ensure that your API key has withdrawal permissions enabled in the Binance API Management page and check if IP whitelisting is required.
+
 
 ### Log Files 📄
 
