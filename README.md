@@ -16,7 +16,7 @@ Before running the commands, ensure you have the following set up:
 
 ### Clone
 ```bash
-git clone https://github.com/oscarmwangangi/Withdraw.git
+git clone https://github.com/oscarmwangangi/Binance-Withdraw.git
 ```
 ### install all dependancy
 ```bash
